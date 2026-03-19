@@ -33,6 +33,6 @@
 
 本书是[唐旭江个人学术主页](https://txj2006.github.io)系列学术著作之一。
 
-- 📚 [本科生的数学六卷](https://txj2006.github.io/math-six-volumes/)
+- 📚 [数学全书十六卷](https://txj2006.github.io/math-six-volumes/)
 - 📐 [数学建模十卷](https://txj2006.github.io/math-modeling/)
 - 🤖 **机器智能的数学现象学**（本书）
